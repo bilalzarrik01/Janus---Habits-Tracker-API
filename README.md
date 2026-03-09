@@ -92,6 +92,10 @@ For production deployment on AWS (App Runner + RDS), see:
 
 - `docs/aws-apprunner-deploy.md`
 
+For an easier path without Docker (Elastic Beanstalk + RDS), see:
+
+- `docs/aws-elastic-beanstalk-no-docker.md`
+
 ## Postman
 
 Collection and environment files are available in `postman/`:
