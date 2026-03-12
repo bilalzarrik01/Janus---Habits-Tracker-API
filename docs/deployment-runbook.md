@@ -11,3 +11,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-11T16:10:00+00:00
 - Captured inbound/outbound security group checks required for API-to-database connectivity.
+
+### 2026-03-12T09:25:00+00:00
+- Documented migration execution sequence and verification points for production-like environments.
