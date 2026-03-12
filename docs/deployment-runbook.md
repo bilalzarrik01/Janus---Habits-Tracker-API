@@ -17,3 +17,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-12T12:15:00+00:00
 - Defined minimum endpoint checks to validate auth and core API behavior after release.
+
+### 2026-03-12T17:05:00+00:00
+- Added rollback triggers based on deployment health, endpoint failures, and critical log signals.
