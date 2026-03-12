@@ -14,3 +14,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-12T09:25:00+00:00
 - Documented migration execution sequence and verification points for production-like environments.
+
+### 2026-03-12T12:15:00+00:00
+- Defined minimum endpoint checks to validate auth and core API behavior after release.
