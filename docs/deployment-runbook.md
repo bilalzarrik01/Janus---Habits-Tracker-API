@@ -23,3 +23,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-13T09:10:00+00:00
 - Included a short triage flow to isolate runtime, configuration, and data-layer failures.
+
+### 2026-03-13T12:40:00+00:00
+- Added repeatable commands to gather Laravel, Nginx, and PHP-FPM errors for investigation.
