@@ -26,3 +26,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-13T12:40:00+00:00
 - Added repeatable commands to gather Laravel, Nginx, and PHP-FPM errors for investigation.
+
+### 2026-03-13T18:00:00+00:00
+- Captured service selection guidance to choose the least complex AWS runtime per use case.
