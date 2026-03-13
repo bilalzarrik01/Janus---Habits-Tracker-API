@@ -20,3 +20,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-12T17:05:00+00:00
 - Added rollback triggers based on deployment health, endpoint failures, and critical log signals.
+
+### 2026-03-13T09:10:00+00:00
+- Included a short triage flow to isolate runtime, configuration, and data-layer failures.
