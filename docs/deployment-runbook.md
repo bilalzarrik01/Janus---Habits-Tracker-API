@@ -35,3 +35,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-14T13:05:00+00:00
 - Added known causes and remediations when Session Manager access is unavailable.
+
+### 2026-03-14T17:40:00+00:00
+- Added corrective commands for storage and cache permissions to reduce 500 regressions.
