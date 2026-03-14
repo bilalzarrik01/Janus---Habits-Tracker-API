@@ -29,3 +29,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-13T18:00:00+00:00
 - Captured service selection guidance to choose the least complex AWS runtime per use case.
+
+### 2026-03-14T09:20:00+00:00
+- Documented practical checks to confirm VPC, SG, credentials, and schema-level readiness.
