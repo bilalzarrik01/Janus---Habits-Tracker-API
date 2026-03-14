@@ -32,3 +32,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-14T09:20:00+00:00
 - Documented practical checks to confirm VPC, SG, credentials, and schema-level readiness.
+
+### 2026-03-14T13:05:00+00:00
+- Added known causes and remediations when Session Manager access is unavailable.
