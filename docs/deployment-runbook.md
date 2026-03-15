@@ -38,3 +38,6 @@ Operational notes for AWS API deployments.
 
 ### 2026-03-14T17:40:00+00:00
 - Added corrective commands for storage and cache permissions to reduce 500 regressions.
+
+### 2026-03-15T10:15:00+00:00
+- Defined a release gate requiring login/register and health checks to pass before sign-off.
