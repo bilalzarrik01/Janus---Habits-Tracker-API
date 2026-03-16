@@ -96,6 +96,13 @@ For an easier path without Docker (Elastic Beanstalk + RDS), see:
 
 - `docs/aws-elastic-beanstalk-no-docker.md`
 
+## UML
+
+Architecture and analysis diagrams are available in `docs/uml/`:
+
+- `docs/uml/class-diagram.drawio`
+- `docs/uml/use-case-diagram.drawio`
+
 ## Postman
 
 Collection and environment files are available in `postman/`:
